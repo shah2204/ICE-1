@@ -8,7 +8,7 @@
 
 /**
  * Name:-Shreya Shah
- * @author Dell
+ * @author Shreya
  */
 public class Studentlist {
     
