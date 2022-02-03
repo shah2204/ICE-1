@@ -8,6 +8,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * Name:-Shreyaben Kamleshbhai Shah
+ * SID:-991631315
  */
 public class CardDealer 
 {
